@@ -1,8 +1,8 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: default
 ---
 
-# STUFF GOES HERE!
+# Code and social media
+Github: [nylanderdev](https://github.com/nylanderdev)
+
+Stack overflow: [nylanderDev](https://stackoverflow.com/users/10904852/nylanderdev)
